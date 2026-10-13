@@ -1,2 +1,3 @@
 # win-form
-bài tập lớn n2
+đồ án bán hàng gia dụng
+sử dụng .net, sql server
